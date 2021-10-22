@@ -1,3 +1,18 @@
+### Hi there, I'm Amal 
+
+## I'm a student,teacher,coder,devoloper,friend,brother and many more
+- I am currently working on [project][website]
+- I am currently learning [vue][website],[3js][website],[starpi][website] etc
+- I am
+- 🔭 I’m currently working on [project][website]
+- 🌱 I’m currently learning [vue][website],[3js][website],[starpi][website] etc
+- 👯 I’m looking to collaborate with others
+- 💬 Ask me about Anything 
+- 📫 How to reach me: 
+- ⚡ Fun fact: I play Keyboard!
+
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/logo.svg" width="300" height="100">
 </p>	
