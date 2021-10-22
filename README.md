@@ -12,11 +12,11 @@
 ### Connect with me
 
 [<img align="left" alt="" width="22px" src=""/>][website]
-[<img align="left" alt="" width="22px" src="https://www.flaticon.com/free-icon/linkedin_174857"/>][Linkedin]
+[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][Linkedin]
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"/>][Facebook]
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>][Instagram]
-[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>][Twiter]
-[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>][Gmail]
+[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"/>][Twiter]
+[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>][Gmail]
 
 
 <br/>
