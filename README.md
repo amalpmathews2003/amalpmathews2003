@@ -23,14 +23,14 @@
 
 ### Languages and Tools
 
-[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/919/919841.png"/>][Linkedin]
+[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/3600/3600912.png"/>][Linkedin]
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/919/919841.png"/>][Linkedin]
 [<img align="left" alt="" width="22px" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291669.png?token=exp=1634920856~hmac=99b2136d46cf1ef712d3e245412dea34"/>][Linkedin]
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/919/919852.png"/>][Linkedin]
-[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/919/919852.png"/>][Linkedin]
+[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"/>][Linkedin]
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"/>][Linkedin]
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"/>][Linkedin]
-[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"/>][Linkedin]
+[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/919/919851.png"/>][Linkedin]
 [<img align="left" alt="" width="22px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png"/>][Linkedin]
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][Linkedin]
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][Linkedin]
