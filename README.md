@@ -29,7 +29,7 @@
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/919/919852.png"/>][Linkedin]
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"/>][Linkedin]
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"/>][Linkedin]
-[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"/>][Linkedin]
+[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/919/919826.png"/>][Linkedin]
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/919/919851.png"/>][Linkedin]
 [<img align="left" alt="" width="22px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png"/>][Linkedin]
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][Linkedin]
