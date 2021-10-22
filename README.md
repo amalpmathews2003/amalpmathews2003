@@ -10,15 +10,13 @@
 - ⚡ Fun fact: I play Keyboard!!
 
 ### Connect with me
-<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-<span class="material-icons md-18">face</span>
 [<img align="left"> alt="" width="22px" src=""/>][website]
-[<img align="left"> alt="" width="22px" src=""/>][Linkedin]
-[<img align="left"> alt="" width="22px" src=""/>][Facebook]
-[<img align="left"> alt="" width="22px" src=""/>][Instagram]
-[<img align="left"> alt="" width="22px" src=""/>][Twiter]
-[<img align="left"> alt="" width="22px" src=""/>][Gmail]
+[<img align="left"> alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][Linkedin]
+[<img align="left"> alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][Facebook]
+[<img align="left"> alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][Instagram]
+[<img align="left"> alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][Twiter]
+[<img align="left"> alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][Gmail]
 
 
 <br/>
