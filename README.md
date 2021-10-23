@@ -57,11 +57,10 @@ Also, feel free to check what I've been rambling about on <a href="https://fanti
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/tags.svg" width="auto" height="auto">
 
 
-### Hello! 👋️, I'm Amal
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-#### I'm a student,teacher,coder,devoloper,friend,brother and many more
-
-\- 🔭 I’m currently working on [Amal](abc.com) - 🌱 I’m currently learning \[vue\]\[website\],\[3js\]\[website\],\[starpi\]\[website\] etc - 👯 I’m looking to collaborate with others - 💬 Ask me about Anything I will answer if i know - 2022 Goals: Contribute more to Open Source and expand my knowledge - 📫 How to reach me: - ⚡ Fun fact: I play Keyboard!!
 
 
 [youtube]: https://youtube.com/codeSTACKr
