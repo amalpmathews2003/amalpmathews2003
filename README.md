@@ -12,11 +12,11 @@
 ### Connect with me
 
 [<img align="left" alt="" width="22px" src=""/>][website]
-[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][Linkedin]
-[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"/>][Facebook]
-[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>][Instagram]
+[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
+[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"/>][facebook]
+[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>][instagram]
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"/>][Twiter]
-[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>][Gmail]
+[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>][gmail]
 
 
 <br/>
@@ -61,11 +61,14 @@ Also, feel free to check what I've been rambling about on <a href="https://fanti
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: ""
 [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://www.instagram.com/amal_p_mathews_2003/
+[linkedin]: https://www.linkedin.com/in/amal-p-mathews/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+[facebook]:https://www.facebook.com/amalpullukottayil.mathew/
+[gmail]:mailto:amalpmathews2003@gmail.com
