@@ -34,6 +34,8 @@
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][Linkedin]
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amalpmathews2003)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amalpmathews2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/logo.svg" width="300" height="100">
