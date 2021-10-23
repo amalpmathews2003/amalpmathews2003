@@ -11,7 +11,6 @@
 
 ### Connect with me
 
-[<img align="left" alt="" width="22px" src=""/>][website]
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"/>][facebook]
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>][instagram]
