@@ -36,7 +36,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amalpmathews2003)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amalpmathews2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!-- 
 <p align="center">
   <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/logo.svg" width="300" height="100">
 </p>	
@@ -78,7 +78,7 @@ Also, feel free to check what I've been rambling about on <a href="https://fanti
 
 
 
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr -->
 [instagram]: https://www.instagram.com/amal_p_mathews_2003/
 [linkedin]: https://www.linkedin.com/in/amal-p-mathews/
 [facebook]:https://www.facebook.com/amalpullukottayil.mathew/
