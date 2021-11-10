@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate with others
 - 💬 Ask me about Anything I will answer if i know
 - 2022 Goals: Contribute more to Open Source and expand my knowledge
-- 📫 How to reach me: 
 - ⚡ Fun fact: I play Keyboard!!
 
 ### Connect with me
