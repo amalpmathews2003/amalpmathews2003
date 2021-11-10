@@ -15,6 +15,7 @@
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"/>][facebook]
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>][instagram]
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>][gmail]
+[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/431/431979.png"/>][Portfolio]
 
 
 <br/>
@@ -31,7 +32,7 @@
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/919/919851.png"/>][react]
 [<img align="left" alt="" width="22px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png"/>][django]
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][Linkedin]
-[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][Linkedin]
+[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/431/431979.png"/>][Linkedin]
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amalpmathews2003)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amalpmathews2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -42,6 +43,7 @@
 [linkedin]: https://www.linkedin.com/in/amal-p-mathews/
 [facebook]:https://www.facebook.com/amalpullukottayil.mathew/
 [gmail]:mailto:amalpmathews2003@gmail.com
+[portfolio]:https://amalpmathews2003.github.io/HTML-Projects/Personal%20Website/
 
 [python]:https://www.python.org/
 [c++]:https://isocpp.org/
