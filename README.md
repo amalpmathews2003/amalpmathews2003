@@ -1,6 +1,6 @@
 ### Hello! 👋️, I'm Amal 
 
-## I'm a student,teacher,coder,devoloper,friend,brother and many more
+## I'm a student,teacher,coder,devoloper,friend,brother.
 - 🔭 I’m currently working on Thathva Website,Nitc Website
 - 🌱 I’m currently learning [vue][website],[starpi][website] etc
 - 👯 I’m looking to collaborate with others
