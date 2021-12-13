@@ -2,7 +2,7 @@
 
 ## I'm a student,teacher,coder,devoloper,friend,brother.
 - 🔭 I’m currently working on Thathva Website,Nitc Website
-- 🌱 I’m currently learning [vue][website],[starpi][website] etc
+- 🌱 I’m currently learning Next and Starpi
 - 👯 I’m looking to collaborate with others
 - 💬 Ask me about Anything I will answer if i know
 - 2022 Goals: Contribute more to Open Source and expand my knowledge
