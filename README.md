@@ -10,11 +10,11 @@
 
 ### Connect with me
 
-<a href="" target="blank"><img alt="alt" width="40px" align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
-<a href="" target="blank"><img alt="alt" width="40px" align="left" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"></a>
-<a href="" target="blank"><img alt="alt" width="40px" align="left" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>
-<a href="" target="blank"><img alt="alt" width="40px" align="left" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"></a>
-<a href="" target="blank"><img alt="alt" width="40px" align="left" src="https://cdn-icons-png.flaticon.com/512/431/431979.png"></a>
+<a href="https://amalpmathews.tech" target="blank"><img alt="alt" width="40px" align="left" src="https://cdn-icons-png.flaticon.com/512/431/431979.png"></a>
+<a href=" https://www.linkedin.com/in/amal-p-mathews/" target="blank"><img alt="alt" width="40px" align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+<a href="https://www.facebook.com/amalpullukottayil.mathew/" target="blank"><img alt="alt" width="40px" align="left" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"></a>
+<a href="https://www.instagram.com/amal_p_mathews_2003/" target="blank"><img alt="alt" width="40px" align="left" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>
+<a href="mailto:amalpmathews2003@gmail.com" target="blank"><img alt="alt" width="40px" align="left" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"></a>
 
 
 <br/>
