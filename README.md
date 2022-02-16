@@ -41,3 +41,9 @@
 <a href='https://git-scm.com/' target='blank'><img align='left' alt='alt' width='40px' src='https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667'/></a>
 <a href='https://www.mysql.com/' target='blank'><img align='left' alt='alt' width='40px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg'/></a>
 <a href='https://strapi.io/' target='blank'><img align='left' alt='alt' width='40px' src='https://avatars.githubusercontent.com/u/19872173?s=200&v=4'/></a>
+<a href='https://code.visualstudio.com/' target='blank'><img align='left' alt='alt' width='40px' src='https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg'/></a>
+<a href='https://www.sublimetext.com' target='blank'><img align='left' alt='alt' width='40px' src='https://cdn.worldvectorlogo.com/logos/sublime-text.svg'/></a>
+<a href='https://nodejs.org/en/a' target='blank'><img align='left' alt='alt' width='40px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png?20170401104355'/></a>
+<a href='https://www.google.com/chrome/' target='blank'><img align='left' alt='alt' width='40px' src='https://www.logo.wine/a/logo/Google_Chrome/Google_Chrome-Logo.wine.svg'/></a>
+<a href='https://www.mozilla.org/en-US/firefox/developer/' target='blank'><img align='left' alt='alt' width='40px' src='https://www.mozilla.org/media/protocol/img/logos/firefox/logo.fedb52c912d6.svg'/></a>
+
