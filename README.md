@@ -1,7 +1,7 @@
-### Hello! 👋️, I'm Amal 
+### Hello! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Amal 
 
 ## I'm a student,teacher,coder,devoloper,friend,brother.
-- 🔭 I’m currently working on Thathva Website,Nitc Website
+- 🔭 I’m currently working on Ragam Website
 - 🌱 I’m currently learning Next and Starpi
 - 👯 I’m looking to collaborate with others
 - 💬 Ask me about Anything I will answer if i know
@@ -21,6 +21,10 @@
 
 ### Languages and Tools
 
+
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+  <br/>
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/3600/3600912.png"/>][c]
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/919/919841.png"/>][c++]
 [<img align="left" alt="" width="22px" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291669.png?token=exp=1634920856~hmac=99b2136d46cf1ef712d3e245412dea34"/>][java]
@@ -33,7 +37,7 @@
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][Linkedin]
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/431/431979.png"/>][Linkedin]
 
-
+</details>
 
 
 [instagram]: https://www.instagram.com/amal_p_mathews_2003/
