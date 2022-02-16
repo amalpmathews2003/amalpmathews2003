@@ -1,6 +1,6 @@
 ### Hello! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm Amal 
 
-## I'm a Student,Web developer,Coder,Friend,Brother and Teacher.
+## I'm a Student,&nbsp;Web developer,&nbsp;Coder,&nbsp;Friend,&nbsp;Brother and Teacher.
 - 🔭 I’m currently working on Ragam Website
 - 🌱 I’m currently learning  FLutter and Dart
 - 👯 I’m looking to collaborate with others
@@ -41,44 +41,3 @@
 <a href='https://git-scm.com/' target='blank'><img alighn='left' alt='alt' width='40px' src='https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667'/></a>
 <a href='https://www.mysql.com/' target='blank'><img alighn='left' alt='alt' width='40px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg'/></a>
 
-
-
-
-
-
-
-
-[instagram]: https://www.instagram.com/amal_p_mathews_2003/
-[linkedin]: https://www.linkedin.com/in/amal-p-mathews/
-[facebook]:https://www.facebook.com/amalpullukottayil.mathew/
-[gmail]:mailto:amalpmathews2003@gmail.com
-[portfolio]:https://amalpmathews2003.github.io/HTML-Projects/Personal%20Website/
-
-[python]:https://www.python.org/
-[c++]:https://isocpp.org/
-[c]:https://en.wikipedia.org/wiki/C_(programming_language)
-[java]:https://www.java.com/en/
-[html]:https://html.spec.whatwg.org/dev/
-[js]:https://www.javascript.com/
-[css]:https://www.w3.org/Style/CSS/Overview.en.html
-[react]:https://reactjs.org/
-[vue]:https://vuejs.org/
-[django]:https://www.djangoproject.com/
-[starpi]:https://strapi.io/
-[sublime]:https://www.sublimetext.com/
-[vscode]:https://code.visualstudio.com/
-[chrome]:https://www.google.com/intl/en_in/chrome/
-
-[bootstrap]:https://getbootstrap.com/
-[linux]:https://www.linux.org/
-[react]:https://reactjs.org/
-[typescript]:https://www.typescriptlang.org/
-[postgres]:https://www.postgresql.org/
-[sqllite]:https://www.sqlite.org/
-[postman]:https://postman.com/
-[heroku]:https://heroku.com/
-[graphql]:https://graphql.org/
-[gcloud]:https://cloud.google.com/
-[git]:https://git-scm.com/
-[mysql]:https://www.mysql.com/
-[mangodb]:https://www.mongodb.com/
