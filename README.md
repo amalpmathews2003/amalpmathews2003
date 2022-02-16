@@ -21,27 +21,28 @@
 
 ### 🛠️&nbsp;&nbsp; Languages,Frameworks and Tools
 
-<a href=https://www.cprogramming.com/><img alighn='left' alt='alt' width=22px src='https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg'/></a>
-<a href=https://isocpp.org/><img alighn='left' alt='alt' width=22px src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus'/></a>
-<a href=https://www.java.com/en/><img alighn='left' alt='alt' width=22px src='https://cdn-icons.flaticon.com/png/512/3291/premium/3291669.png?token=exp=1634920856~hmac=99b2136d46cf1ef712d3e245412dea34'/></a>
-<a href=https://www.python.org/><img alighn='left' alt='alt' width=22px src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'/></a>
-<a href=><img alighn='left' alt='alt' width=22px src='https://cdn-icons-png.flaticon.com/512/174/174854.png'/></a>
-<a href=><img alighn='left' alt='alt' width=22px src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'/></a>
-<a href=><img alighn='left' alt='alt' width=22px src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg'/></a>
-<a href=><img alighn='left' alt='alt' width=22px src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg'/></a>
-<a href=><img alighn='left' alt='alt' width=22px src='https://static.djangoproject.com/img/logos/django-logo-positive.png'/></a>
-<a href=><img alighn='left' alt='alt' width=22px src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg'/></a>
-<a href=><img alighn='left' alt='alt' width=22px src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'/></a>
-<a href=><img alighn='left' alt='alt' width=22px src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg'/></a>
-<a href=><img alighn='left' alt='alt' width=22px src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg'/></a>
-<a href=><img alighn='left' alt='alt' width=22px src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg'/></a>
-<a href=><img alighn='left' alt='alt' width=22px src='https://camo.githubusercontent.com/1b8a779f280e099e2d67ab949dad604e25ce0d321e66474c04430201790b3874/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667'/></a>
-<a href=><img alighn='left' alt='alt' width=22px src='https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667'/></a>
-<a href=><img alighn='left' alt='alt' width=22px src='https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667'/></a>
-<a href=><img alighn='left' alt='alt' width=22px src='https://camo.githubusercontent.com/07c382b68200c1a86d52d1682346e73e038b2f160c9afbc0af773fb3646882c8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6772617068716c2f6772617068716c2d69636f6e2e737667'/></a>
-<a href=><img alighn='left' alt='alt' width=22px src='https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667'/></a>
-<a href=><img alighn='left' alt='alt' width=22px src='https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667'/></a>
-<a href=><img alighn='left' alt='alt' width=22px src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg'/></a>
+<a href='https://www.cprogramming.com/'><img alighn='left' alt='alt' width=22px src='https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg'/></a>
+<a href='https://isocpp.org/'><img alighn='left' alt='alt' width=22px src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus'/></a>
+<a href='https://www.java.com/en/'><img alighn='left' alt='alt' width=22px src='https://cdn-icons.flaticon.com/png/512/3291/premium/3291669.png?token=exp=1634920856~hmac=99b2136d46cf1ef712d3e245412dea34'/></a>
+<a href='https://www.python.org/'><img alighn='left' alt='alt' width=22px src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'/></a>
+<a href=''><img alighn='left' alt='alt' width=22px src='https://cdn-icons-png.flaticon.com/512/174/174854.png'/></a>
+<a href=''><img alighn='left' alt='alt' width=22px src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'/></a>
+<a href=''><img alighn='left' alt='alt' width=22px src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg'/></a>
+<a href=''><img alighn='left' alt='alt' width=22px src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg'/></a>
+<a href=''><img alighn='left' alt='alt' width=22px src='https://static.djangoproject.com/img/logos/django-logo-positive.png'/></a>
+<a href=''><img alighn='left' alt='alt' width=22px src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg'/></a>
+<a href=''><img alighn='left' alt='alt' width=22px src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'/></a>
+<a href=''><img alighn='left' alt='alt' width=22px src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg'/></a>
+<a href=''><img alighn='left' alt='alt' width=22px src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg'/></a>
+<a href=''><img alighn='left' alt='alt' width=22px src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg'/></a>
+<a href=''><img alighn='left' alt='alt' width=22px src='https://camo.githubusercontent.com/1b8a779f280e099e2d67ab949dad604e25ce0d321e66474c04430201790b3874/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667'/></a>
+<a href=''><img alighn='left' alt='alt' width=22px src='https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667'/></a>
+<a href=''><img alighn='left' alt='alt' width=22px src='https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667'/></a>
+<a href=''><img alighn='left' alt='alt' width=22px src='https://camo.githubusercontent.com/07c382b68200c1a86d52d1682346e73e038b2f160c9afbc0af773fb3646882c8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6772617068716c2f6772617068716c2d69636f6e2e737667'/></a>
+<a href=''><img alighn='left' alt='alt' width=22px src='https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667'/></a>
+<a href=''><img alighn='left' alt='alt' width=22px src='https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667'/></a>
+<a href=''><img alighn='left' alt='alt' width=22px src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg'/></a>
+
 
 
 
