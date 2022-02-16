@@ -22,7 +22,7 @@
  - [Amalpmathews.tech](https://amalpmathews.tech)
 
 ### Connect with me
-
+<br/>
   
 
 <a  href="https://amalpmathews.tech"  target="blank"><img  alt="alt"  width="40px"  align="left"  src="https://cdn-icons-png.flaticon.com/512/431/431979.png"></a>
@@ -38,12 +38,12 @@
   
   
 
-<br/>
+<br/><br/>
 
   
 
 ### 🛠️&nbsp;&nbsp; Languages,Frameworks and Tools
-
+<br/>
 <a  href='https://www.cprogramming.com/'  target='blank'><img  align='left'  alt='alt'  width='40px'  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg'/></a>
 
 <a  href='https://isocpp.org/'  target='blank'><img  align='left'  alt='alt'  width='40px'  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg'/></a>
