@@ -1,11 +1,11 @@
-### Hello! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Amal 
+### Hello! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm Amal 
 
-## I'm a student,teacher,coder,devoloper,friend,brother.
+## I'm a Student,Web developer,Coder,Friend,Brother and Teacher.
 - 🔭 I’m currently working on Ragam Website
-- 🌱 I’m currently learning Next and Starpi
+- 🌱 I’m currently learning  FLutter and Dart
 - 👯 I’m looking to collaborate with others
 - 💬 Ask me about Anything I will answer if i know
-- 2022 Goals: Contribute more to Open Source and expand my knowledge
+- 2022 Goals: Explone , Experience and Expand
 - ⚡ Fun fact: I play Keyboard!!
 
 ### Connect with me
