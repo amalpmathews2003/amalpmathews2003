@@ -4,9 +4,9 @@
 
 ## I'm a Student,&nbsp;Web developer,&nbsp;Coder,&nbsp;Friend,&nbsp;Brother and Teacher.
 
-- 🔭 I’m currently working on [Ragam.live](https://ragam.live)
+- 🔭 I’m currently working on [Ragam.co.in](https://ragam.co.in)
 
-- 🌱 I’m currently learning FLutter and Dart
+- 🌱 I’m currently learning Flutter and Dart
 
 - 👯 I’m looking to collaborate with others
 
