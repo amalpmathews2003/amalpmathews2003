@@ -19,6 +19,7 @@
 ## Projects	  
 
  - [Tathva.org](https://tathva.org)
+ - [Ragam.co.in](https://ragam.co.in)
  - [Amalpmathews.tech](https://amalpmathews.tech)
 
 ### Connect with me
