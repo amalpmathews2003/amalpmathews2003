@@ -12,7 +12,7 @@
 
 - 💬 Ask me about Anything I will answer if i know
 
-- 2022 Goals: Explone , Experience and Expand
+- 2022 Goals: Explore , Experience and Expand
 
 - ⚡ Fun fact: I play Keyboard!!
 
