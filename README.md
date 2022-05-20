@@ -1,4 +1,4 @@
-### Hello! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="25px"></a> I'm Amal 
+### Hello! <a href="https://www.amalpmathews.tech/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="25px"></a> I'm Amal 
 
   
 
