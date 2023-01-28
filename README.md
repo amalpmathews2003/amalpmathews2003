@@ -20,7 +20,7 @@
 
  - [Tathva.org](https://tathva.org)
  - [Ragam.co.in](https://ragam.co.in)
- - [Amalpmathews.tech](https://amalpmathews.tech)
+ - [Amalpmathews.live](https://amalpmathews.live)
 
 ### Connect with me
 
